@@ -1,9 +1,9 @@
 function arrayMinNumber(numbers) {
     let min = numbers[0];
     for (let i = 1; i < numbers.length; i++) {
-        let namber = numbers[i];
-        if (namber < min) {
-            min = namber
+        let number = numbers[i];
+        if (number < min) {
+            min = number
         }
     }
     return min;
