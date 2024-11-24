@@ -1,0 +1,14 @@
+.wrap{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+.collapse{
+    background-color: aqua;
+}
+.alpha{
+margin: 10px;
+}
+.beta{
+border: 3px solid blueviolet;
+}
